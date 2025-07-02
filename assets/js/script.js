@@ -77,6 +77,8 @@ const books = [
       'content/Issue_1/14.tif'
     ]
   },
+
+  
   {
     cover: 'content/Issue_2/Cover.tif',
     spreads: [
